@@ -1,0 +1,36 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Debug files
+debug/
+*.log
+*.png
+*.html
+*.json
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Distribution
+*.egg-info/
+dist/
+build/
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Other
+.DS_Store
+Thumbs.db
